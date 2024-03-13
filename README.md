@@ -1,2 +1,2 @@
-# threejs-challenge-solar-system
-Three.js Challenge: Solar System
+# threejs-challenge-isometric-room
+Three.js Challenge: Isometric Room
